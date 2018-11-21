@@ -3,4 +3,4 @@ venv
 env
 .pytest_cache
 .coverage
-.pyc
+*.pyc
